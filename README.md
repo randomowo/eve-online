@@ -2,29 +2,14 @@
 
 ## View Panel
 
-Panel `*`:
-
-Similar to `General: All`.
-
-Panel `WarpTo`:
-
-Warp gates, beacons, stations and etc.
-
-Panel `Target`:
-
-PvE, PvP targets, your fleet and etc.
-
-Panel `Cargo`:
-
-Crates and etc.
-
-Panel `Mining`:
-
-Similar to `Drilling: Drilling`.
-
-Panel `Crew`:
-
-Contains your fleet.
+| Panel name | Contains                                |
+|------------|-----------------------------------------|
+| *          | similar to `General: All` filter        |
+| WarpTo     | warp gates, stations and etc.           |
+| Target     | PvE, PvP targets, your fleet and etc.   |
+| Cargo      | crates and etc.                         |
+| Mining     | similar to `Drilling: Drilling` filter. |
+| Crew       | your fleet                              |
 
 ![view panel](./.assets/settings/view-panel.png)
 
