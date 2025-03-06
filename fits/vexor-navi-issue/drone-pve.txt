@@ -4,15 +4,17 @@ Drone Damage Amplifier II
 Drone Damage Amplifier II
 Drone Damage Amplifier II
 Omnidirectional Tracking Enhancer II
-Omnidirectional Tracking Enhancer II
+Shield Power Relay II
 
 100MN Monopropellant Enduring Afterburner
 Multispectrum Shield Hardener II
 Large Shield Extender II
 Large Shield Extender II
 
+150mm Prototype Gauss Gun
+150mm Prototype Gauss Gun
+150mm Prototype Gauss Gun
 Drone Link Augmentor I
-Small Tractor Beam II
 
 Medium Core Defense Field Extender I
 Medium Core Defense Field Extender I
@@ -20,6 +22,10 @@ Medium Core Defense Field Extender I
 
 
 
-Caldari Navy Hornet x3
-Caldari Navy Vespa x5
-Caldari Navy Wasp x3
+Caldari Navy Hornet x4
+Caldari Navy Vespa x4
+Caldari Navy Wasp x4
+
+Caldari Navy Antimatter Charge S x4200
+Mobile Tractor Unit x1
+
