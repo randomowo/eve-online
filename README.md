@@ -16,10 +16,4 @@
 
 ## Fits
 
-### Vexor Navi Issue
-
-#### Drone PVE
-
-Build to farm Guristas 4/10 DED.
-
-![Vexor navi Issue | Drone PVE](./.assets/fits/vexor-navi-issue/drone-pve.png)
+TODO
