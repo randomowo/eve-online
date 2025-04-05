@@ -1,0 +1,30 @@
+[Vexor Navy Issue, Cloaked]
+Damage Control II
+Drone Damage Amplifier II
+Drone Damage Amplifier II
+Drone Damage Amplifier II
+Omnidirectional Tracking Enhancer II
+Shield Power Relay II
+
+50MN Microwarpdrive II
+Multispectrum Shield Hardener II
+Large Shield Extender II
+Large Shield Extender II
+
+Improved Cloaking Device II
+Modal Light Neutron Particle Accelerator I
+Modal Light Neutron Particle Accelerator I
+Drone Link Augmentor I
+
+Medium Core Defense Field Extender I
+Medium Core Defense Field Extender I
+Medium Processor Overclocking Unit I
+
+
+
+Caldari Navy Hornet x4
+Caldari Navy Vespa x4
+Caldari Navy Wasp x4
+
+Federation Navy Antimatter Charge S x10160
+
